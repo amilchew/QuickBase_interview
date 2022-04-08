@@ -1,0 +1,11 @@
+In terms of tests, I made two accounts, using the same email - a GitHub account and a Freshdesk one, which we can apply unit testing on. This can be implemented by updating the chosen fields in the GitHub account and then check whether they have been updated in the Freshdesk accounts as well. We can also try to make new Freshdesk account by given GitHub username and access token. 
+
+The usernames and tokens of the two already existing GitHub and Freshdesk accounts are: 
+
+GitHub: username - amilchew10; token - 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
+
+Freshdesk: username - amilchew; token - bwbtrqLw8LDKm2dxbsoI
+
+The username and the token of the GitHub account, which can be used for creating a new Freshdesk account are: 
+username - amilchew7; token - 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
+
