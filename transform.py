@@ -1,5 +1,5 @@
 """
-THe module, which is used for transforming the chosen GitHub data to a format, suitable for Freshdesk
+The module, which is used for transforming the chosen GitHub data to a format, suitable for Freshdesk
 """
 
 import json
